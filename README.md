@@ -3,7 +3,7 @@
 ```usernames.py -i <infile> > <outfile>```
 
 ## Output
-For the username ```john doe``` the script will create the usernames:
+With the input of ```john doe``` the script will create the usernames:
 
 ```
 john
